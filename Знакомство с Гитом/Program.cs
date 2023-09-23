@@ -9,6 +9,11 @@ namespace Знакомство_с_Гитом
             Console.WriteLine("Hello World!");
             Console.WriteLine("Привет, Гит!");
             Console.WriteLine("Осваиваю Гит");
+
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("Уже вторая лаба");
+            }
         }
     }
 }
