@@ -7,6 +7,7 @@ namespace Знакомство_с_Гитом
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Привет, Гит!")
         }
     }
 }
