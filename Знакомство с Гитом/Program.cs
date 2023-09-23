@@ -8,7 +8,7 @@ namespace Знакомство_с_Гитом
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Привет, Гит!");
-            Console.WriteLine("Осваиваю Гит");
+            Console.WriteLine("Осваиваю Гит и SourceTree");
 
             for (int i = 0; i < 10; i++)
             {
